@@ -9,7 +9,7 @@ btn1.addEventListener('click',function()
 					<img class="jen" src="jenn2.jpeg">
 					<img class="jen" src="jenn3.jpeg">
 					</marquee>
-					<marquee behaviour="scroll" direction="left" scrollamount="7">
+					<marquee behaviour="scroll" direction="left" scrollamount="9">
 					<p id="p">
 					Happiest Birthday to the most lovable person
 					who bought a lots of joy into my life.
